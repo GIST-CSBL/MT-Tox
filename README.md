@@ -49,7 +49,7 @@ After setting conda environment, use the following command to use the jupyter no
 The source code in this repository is licensed under the [MIT License](https://github.com/GIST-CSBL/MT-Tox/blob/main/LICENSE). See the `LICENSE` file for more information.
 
 
-The trained model weights and any generated data are licensed under the [CC-BY-NC-4.0](https://github.com/GIST-CSBL/BayeshERG/blob/main/CC-BY-NC-SA-4.0). See the `CC BY-NC-SA 4.0` file for more information. 
+The trained model weights and any generated data are licensed under the [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See the `CC BY-NC-SA 4.0` file for more information. 
 
 
 ### Third-party Notice (MIT License)
