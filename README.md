@@ -53,5 +53,5 @@ The trained model weights and any generated data are licensed under the [CC-BY-N
 
 
 ### Third-party Notice (MIT License)
-Part of this code are adapted from [BayeshERG](https://github.com/GIST-CSBL/BayeshERG) and [MultiObjectiveOptimization](https://github.com/isl-org/MultiObjectiveOptimization), which is licensed under the MIT License. 
+Parts of this code are adapted from [BayeshERG](https://github.com/GIST-CSBL/BayeshERG) and [MultiObjectiveOptimization](https://github.com/isl-org/MultiObjectiveOptimization), which are licensed under the MIT License. 
 
