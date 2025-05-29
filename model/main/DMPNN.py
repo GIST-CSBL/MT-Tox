@@ -1,3 +1,7 @@
+# This code is adapted from https://github.com/GIST-CSBL/BayeshERG/tree/main
+# Originally licensed under the MIT license
+
+
 import random
 import os
 import numpy as np

@@ -1,3 +1,6 @@
+# This code includes components from https://github.com/isl-org/MultiObjectiveOptimization
+# Originally licensed under the MIT license
+
 import numpy as np
 import torch
 
