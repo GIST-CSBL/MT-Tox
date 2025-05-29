@@ -43,3 +43,13 @@ After setting conda environment, use the following command to use the jupyter no
 - in_vivo_finetuning.ipynb : Jupyuter notebook files for implementing *in vivo* toxicity fine tuning
 - in_vivo_inference.ipynb : Jupyter notebook files for *in vivo* toxicity inference for any molecular dataset 
 
+<br />
+## LICENSE
+The source code in this repository is licensed under the [MIT License](https://github.com/GIST-CSBL/MT-Tox/blob/main/LICENSE). See the `LICENSE` file for more information.
+
+<br />
+The trained model weights and any generated data are licensed under the [CC-BY-NC-4.0](https://github.com/GIST-CSBL/BayeshERG/blob/main/CC-BY-NC-SA-4.0). See the `CC BY-NC-SA 4.0` file for more information. 
+
+### Third-party Notice (MIT License)
+Part of this code are adapted from [BayeshERG](https://github.com/GIST-CSBL/BayeshERG) and [MultiObjectiveOptimization](https://github.com/isl-org/MultiObjectiveOptimization), which is licensed under the MIT License. 
+
